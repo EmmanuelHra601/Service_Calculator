@@ -60,4 +60,4 @@ Use the following example in json for the operation you want
 <!-- Contact -->
 ## Author and contributors 
 
-Daniel Escobar - danesc21@gmail.com
+Emmanuel Herrera - guerreroherrerafcoemmanuel@gmail.com
